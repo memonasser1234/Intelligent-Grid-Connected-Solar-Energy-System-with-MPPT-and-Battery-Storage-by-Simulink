@@ -1,10 +1,10 @@
-# Intelligent-Grid-Connected-Solar-Energy-System-with-MPPT-and-Battery-Storage-by-Simulink
+# Intelligent-Grid-Connected-Solar-Energy-System-with-MPPT-and-Battery-Storage 10kw-by-Simulink
 
 ## Overview
 
 This project presents the modeling and simulation of a **grid-connected photovoltaic (PV) system** with **Maxim****جديدانقر للتحرير****um Power Point Tracking (MPPT)** and **battery charging capability** using **MATLAB/Simulink**.
 
-The system is designed to extract maximum energy from solar panels using an MPPT controller, regulate the power through a DC–DC converter, convert DC power to AC using a grid-synchronized inverter, and store excess energy in a battery system.
+The system is designed to extract maximum energy (10kw) from solar panels using an MPPT controller, regulate the power through a DC–DC converter, convert DC power to AC using a grid-synchronized inverter, and store excess energy in a battery system.
 
 The model demonstrates the interaction between renewable energy generation, power electronics converters, energy storage, and the electrical grid.
 
