@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project presents the modeling and simulation of a **grid-connected photovoltaic (PV) system** with **Maxim****جديدانقر للتحرير****um Power Point Tracking (MPPT)** and **battery charging capability** using **MATLAB/Simulink**.
+This project presents the modeling and simulation of a **grid-connected photovoltaic (PV) system** with **Maximum Power Point Tracking (MPPT)** and **battery charging capability** using **MATLAB/Simulink**.
 
 The system is designed to extract maximum energy (10kw) from solar panels using an MPPT controller, regulate the power through a DC–DC converter, convert DC power to AC using a grid-synchronized inverter, and store excess energy in a battery system.
 
